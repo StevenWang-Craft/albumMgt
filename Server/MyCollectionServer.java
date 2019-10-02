@@ -188,6 +188,8 @@ class Server{
 	 * AddAlbum Protocol
 	 * 
 	 */
+
+	 /** test update  */
 	public synchronized void addAlbum(InputStream sin,OutputStream out){ 
 		Object album=null;
 		int i;
